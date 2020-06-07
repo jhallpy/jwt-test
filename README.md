@@ -1,1 +1,1 @@
-Text
+This is a project I'm using the learn how to implement JWT for web applications.
